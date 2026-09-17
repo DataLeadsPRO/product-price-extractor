@@ -1,0 +1,14 @@
+[
+  {
+    "name": "product",
+    "method": "POST",
+    "path": "/product",
+    "description": "V1 Product"
+  },
+  {
+    "name": "price_track",
+    "method": "POST",
+    "path": "/price/track",
+    "description": "V1 Price Track"
+  }
+]
